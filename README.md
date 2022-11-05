@@ -1,1 +1,1 @@
-# photography-starter
+# photography starter
